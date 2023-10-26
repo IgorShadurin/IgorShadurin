@@ -3,6 +3,5 @@
 - 🌐 I'm a Web3 dApps Software Engineer with over 15 years of experience in tech, and more than 7 years focused on decentralized applications.
 - 🛠️ Technologies I work with include Ethereum Solidity, decentralized storages, and various decentralized protocols.
 - 🏆 Winning worldwide competitions in Web3.
-- 🧪 Currently, I'm diving deep into **ERC-4337**, a groundbreaking standard that aims to simplify interactions with blockchains.
+- 🧪 Currently, I'm diving deep into **ERC-4337**, a groundbreaking standard that aims to simplify interactions with blockchain.
 - 🤝 I'm open to collaborations that push the boundaries of what's possible in the decentralized world.
-- ⚡ Fun fact: I hold the unofficial world record for most times I've said "I'll just push a quick fix" while coding.
