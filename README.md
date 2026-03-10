@@ -22,6 +22,11 @@
 
 - 📈 **[ClickCaster](https://github.com/IgorShadurin/clickcaster)** - Traffic exchange and analytics for Farcaster Frames.
 - 🧱 **[DappyKit](https://github.com/dappykit)** - Open-source ecosystem for decentralized app tooling.
+- 🧰 [SDK](https://github.com/DappyKit/sdk)
+- 🌐 [Gateway](https://github.com/DappyKit/gateway)
+- 🪪 [Farcaster Auth](https://github.com/DappyKit/farcaster-auth)
+- 📜 [Contracts](https://github.com/DappyKit/contracts)
+- 🧠 [Web4 Apps Specification](https://github.com/DappyKit/web4-apps-specification)
 - 🗄️ **[FDP Storage](https://github.com/fairDataSociety/fdp-storage)** - Serverless filesystem layer for personal data.
 - 🖥️ **[FDP Tooling](https://github.com/fairDataSociety/fdp-cli)** - Command-line tooling for FDP Storage workflows.
 - 🗺️ **[Decentralized Maps (Galileo)](https://github.com/fairDataSociety/galileo)** - Stack for decentralized storage and map data workflows.
