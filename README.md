@@ -38,9 +38,7 @@
   - 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
   - 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
   - 🧪 [login-example](https://github.com/GetLoginEth/login-example)
-- **Author-led open-source projects** - Repositories created and led directly as independent products and experiments.
-- 🧭 [zoomerok-new](https://github.com/IgorShadurin/zoomerok-new)
-- 🎞️ [video-editor-swift](https://github.com/VideoDApp/video-editor-swift)
+- 🧭 **[Zoomerok](https://github.com/IgorShadurin/zoomerok-new)** - Social product focused on helping creators keep ownership and control of their data.
 
 ## Open Source Contributions
 
