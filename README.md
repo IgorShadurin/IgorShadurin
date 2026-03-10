@@ -11,7 +11,7 @@
 - 📣 **[OpenAds](https://github.com/IgorShadurin/open-ads)** - Ad platform for iOS apps with auth, ownership, delivery, and analytics.
 - 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Local-first orchestration system for high-volume AI task execution.
 - 🖼️ **[App Doodler](https://github.com/IgorShadurin/app-doodler)** - Screenshot workflow for App Store localization and batch generation.
-- 📝 **[git-readme-update](https://github.com/IgorShadurin/git-readme-update)** - Bulk GitHub README updater that works through the API without cloning repos.
+- 📝 **[Get Readme Update](https://github.com/IgorShadurin/git-readme-update)** - Bulk GitHub README updater that works through the API without cloning repos.
 - 🎯 **[Compress Target](https://github.com/IgorShadurin/ios-compress-video-to-target)** - iPhone app for compressing videos to an exact file size.
 - 🧩 **[Video to GIF](https://github.com/IgorShadurin/ios-video-to-gif)** - On-device conversion from video to share-ready GIF files.
 - 🔄 **[Video Converter](https://github.com/IgorShadurin/ios-video-converter)** - Private on-device video transcoding with export controls.
