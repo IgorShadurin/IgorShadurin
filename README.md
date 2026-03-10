@@ -2,13 +2,17 @@
 
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI-powered video workflow for generating and enhancing short-form content.
 - 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - Open-source utility toolkit available in browser and desktop form.
+- 📅 **[FounderCal](https://github.com/IgorShadurin/foundercal.org)** - Living calendar of accelerator deadlines, fellowships, grants, and founder opportunities.
 - 🔍 **[Open Data Druid](https://github.com/IgorShadurin/open-data-druid)** - SEO keyword research and content opportunity discovery tool.
 - 📣 **[OpenAds](https://github.com/IgorShadurin/open-ads)** - Ad platform for iOS apps with auth, ownership, delivery, and analytics.
 - 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Local-first orchestration system for high-volume AI task execution.
 - 🖼️ **[App Doodler](https://github.com/IgorShadurin/app-doodler)** - Screenshot workflow for App Store localization and batch generation.
+- 📝 **[git-readme-update](https://github.com/IgorShadurin/git-readme-update)** - Bulk GitHub README updater that works through the API without cloning repos.
 - 🎯 **[Compress Target](https://github.com/IgorShadurin/ios-compress-video-to-target)** - iPhone app for compressing videos to an exact file size.
 - 🧩 **[Video to GIF](https://github.com/IgorShadurin/ios-video-to-gif)** - On-device conversion from video to share-ready GIF files.
 - 🔄 **[Video Converter](https://github.com/IgorShadurin/ios-video-converter)** - Private on-device video transcoding with export controls.
+- 💧 **[Video Watermark](https://github.com/IgorShadurin/ios-video-watermark)** - Batch watermarking app for adding branded overlays to videos on-device.
+- 🧱 **[Video Collage](https://github.com/IgorShadurin/ios-video-collage)** - On-device app for combining multiple clips into grid, PiP, and freeform layouts.
 - ⬇️ **[Video Downloader](https://github.com/IgorShadurin/ios-video-downloader)** - iPhone app for downloading supported videos for offline viewing.
 - 🎵 **[Audio to Audio](https://github.com/IgorShadurin/ios-audio-to-audio)** - Audio conversion and trimming app with waveform-based controls.
 - 🎬 **[Video to Audio](https://github.com/IgorShadurin/ios-video-to-audio)** - On-device audio extraction from video with clipping support.
