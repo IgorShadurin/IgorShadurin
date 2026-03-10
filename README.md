@@ -1,5 +1,7 @@
 ## Current Projects
 
+- 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI-powered video workflow for generating and enhancing short-form content.
+- 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - Open-source utility toolkit available in browser and desktop form.
 - 🔍 **[Open Data Druid](https://github.com/IgorShadurin/open-data-druid)** - SEO keyword research and content opportunity discovery tool.
 - 📣 **[OpenAds](https://github.com/IgorShadurin/open-ads)** - Ad platform for iOS apps with auth, ownership, delivery, and analytics.
 - 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Local-first orchestration system for high-volume AI task execution.
@@ -11,7 +13,6 @@
 - 🎵 **[Audio to Audio](https://github.com/IgorShadurin/ios-audio-to-audio)** - Audio conversion and trimming app with waveform-based controls.
 - 🎬 **[Video to Audio](https://github.com/IgorShadurin/ios-video-to-audio)** - On-device audio extraction from video with clipping support.
 - 🧾 **[Metadata Info](https://github.com/IgorShadurin/ios-metadata)** - File metadata inspector for media, images, and PDFs.
-- 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - Open-source utility toolkit available in browser and desktop form.
 
 ## Legacy Work
 
