@@ -4,7 +4,7 @@
 
 ## Current Projects
 
-- 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI-powered workflow for generating vertical videos for short-form content.
+- 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - Open-source AI short video generator for TikTok, YouTube Shorts, and Instagram Reels.
 - 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - A set of practical tools for developers, available in the browser and desktop app for private local workflows.
 - 📅 **[FounderCal](https://github.com/IgorShadurin/foundercal.org)** - Living calendar of accelerator deadlines, fellowships, grants, and founder opportunities.
 - 🔍 **[Open Data Druid](https://github.com/IgorShadurin/open-data-druid)** - SEO keyword research and content opportunity discovery tool.
