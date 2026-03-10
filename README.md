@@ -20,11 +20,18 @@
 - 🧱 **[DappyKit](https://github.com/dappykit)** - Open-source ecosystem for decentralized app tooling.
 - 🗄️ **[FDP Storage](https://github.com/fairDataSociety/fdp-storage)** - Serverless filesystem layer for personal data.
 - 🖥️ **[FDP Tooling](https://github.com/fairDataSociety/fdp-cli)** - Command-line tooling for FDP Storage workflows.
-- 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth)** - Decentralized SSO tooling for mobile and app ecosystems.
-- 🧭 **[Zoomerok](https://github.com/IgorShadurin/zoomerok-new)** - Product focused on creator data ownership and control.
 - 🗺️ **[Decentralized Maps (Galileo)](https://github.com/fairDataSociety/galileo)** - Stack for decentralized storage and map data workflows.
-- 🔐 **[GetLogin.eth](https://github.com/GetLoginEth/getlogin-mobile)** - Mobile SSO product for decentralized apps.
 - 🏆 **[AI Frames Creator](https://github.com/IgorShadurin/frame-open-content)** - ETHGlobal-winning project for AI-generated Farcaster Frames.
+- **GetLogin open-source ecosystem** - Built and maintained core open-source components for decentralized authentication flows.
+- 🔑 [login](https://github.com/GetLoginEth/login)
+- ❤️ [like](https://github.com/GetLoginEth/like)
+- 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
+- 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
+- 🧪 [login-example](https://github.com/GetLoginEth/login-example)
+- 📱 [getlogin-mobile](https://github.com/GetLoginEth/getlogin-mobile)
+- **Author-led open-source projects** - Repositories created and led directly as independent products and experiments.
+- 🧭 [zoomerok-new](https://github.com/IgorShadurin/zoomerok-new)
+- 🎞️ [video-editor-swift](https://github.com/VideoDApp/video-editor-swift)
 
 ## Open Source Contributions
 
@@ -63,15 +70,3 @@
 - 🌐 [hedera-sdk-js#2021](https://github.com/hashgraph/hedera-sdk-js/pull/2021)
 - 📰 [FairJournal/backend commit 22a20cd](https://github.com/FairJournal/backend/commit/22a20cd24f94a4995e7d95b922eaf9f0baf099c1)
 - 📰 [FairJournal/backend commit 8a73cc8](https://github.com/FairJournal/backend/commit/8a73cc8c1d1db07de7aad153403351dcc66c9ce9)
-
-- **GetLogin open-source ecosystem** - Built and maintained core open-source components for decentralized authentication flows.
-- 🔑 [login](https://github.com/GetLoginEth/login)
-- ❤️ [like](https://github.com/GetLoginEth/like)
-- 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
-- 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
-- 🧪 [login-example](https://github.com/GetLoginEth/login-example)
-- 📱 [getlogin-mobile](https://github.com/GetLoginEth/getlogin-mobile)
-
-- **Author-led open-source projects** - Repositories created and led directly as independent products and experiments.
-- 🧭 [zoomerok-new](https://github.com/IgorShadurin/zoomerok-new)
-- 🎞️ [video-editor-swift](https://github.com/VideoDApp/video-editor-swift)
