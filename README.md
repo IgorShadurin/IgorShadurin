@@ -22,22 +22,22 @@
 
 - 📈 **[ClickCaster](https://github.com/IgorShadurin/clickcaster)** - Traffic exchange and analytics for Farcaster Frames.
 - 🧱 **[DappyKit](https://github.com/dappykit)** - Open-source ecosystem for decentralized app tooling.
-- 🧰 [SDK](https://github.com/DappyKit/sdk)
-- 🌐 [Gateway](https://github.com/DappyKit/gateway)
-- 🪪 [Farcaster Auth](https://github.com/DappyKit/farcaster-auth)
-- 📜 [Contracts](https://github.com/DappyKit/contracts)
-- 🧠 [Web4 Apps Specification](https://github.com/DappyKit/web4-apps-specification)
+  - 🧰 **[SDK](https://github.com/DappyKit/sdk)**
+  - 🌐 **[Gateway](https://github.com/DappyKit/gateway)**
+  - 🪪 **[Farcaster Auth](https://github.com/DappyKit/farcaster-auth)**
+  - 📜 **[Contracts](https://github.com/DappyKit/contracts)**
+  - 🧠 **[Web4 Apps Specification](https://github.com/DappyKit/web4-apps-specification)**
 - 🗄️ **[FDP Storage](https://github.com/fairDataSociety/fdp-storage)** - Serverless filesystem layer for personal data.
 - 🖥️ **[FDP Tooling](https://github.com/fairDataSociety/fdp-cli)** - Command-line tooling for FDP Storage workflows.
 - 🗺️ **[Decentralized Maps (Galileo)](https://github.com/fairDataSociety/galileo)** - Stack for decentralized storage and map data workflows.
 - 🏆 **[AI Frames Creator](https://github.com/IgorShadurin/frame-open-content)** - ETHGlobal-winning project for AI-generated Farcaster Frames.
 - 🔐 **[GetLogin.eth](https://github.com/GetLoginEth)** - Mobile SSO product for decentralized apps.
   - 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth/getlogin-mobile)** - Decentralized SSO tooling for mobile and app ecosystems.
-  - 🔑 [login](https://github.com/GetLoginEth/login)
-  - ❤️ [like](https://github.com/GetLoginEth/like)
-  - 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
-  - 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
-  - 🧪 [login-example](https://github.com/GetLoginEth/login-example)
+  - 🔑 **[login](https://github.com/GetLoginEth/login)**
+  - ❤️ **[like](https://github.com/GetLoginEth/like)**
+  - 🌐 **[like-chrome](https://github.com/GetLoginEth/like-chrome)**
+  - 🧩 **[like-dapp](https://github.com/GetLoginEth/like-dapp)**
+  - 🧪 **[login-example](https://github.com/GetLoginEth/login-example)**
 - 🧭 **[Zoomerok](https://github.com/IgorShadurin/zoomerok-new)** - Social product focused on helping creators keep ownership and control of their data.
 
 ## Open Source Contributions
