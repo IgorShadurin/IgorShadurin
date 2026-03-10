@@ -60,6 +60,16 @@
   - 🐍 [binance-connector-python#265](https://github.com/binance/binance-connector-python/pull/265)
   - 📘 [binance-spot-api-docs#235](https://github.com/binance/binance-spot-api-docs/pull/235)
 
+- **Uniswap** - Contributions to official wallet and SDK tooling in the Uniswap ecosystem.
+  - 🦄 [Uniswap wallet#27](https://github.com/Uniswap/wallet/pull/27)
+  - 🦄 [Uniswap v3-sdk#190](https://github.com/Uniswap/v3-sdk/pull/190)
+  - 🦄 [Uniswap v3-sdk#191](https://github.com/Uniswap/v3-sdk/pull/191)
+  - 🦄 [Uniswap v3-sdk#192](https://github.com/Uniswap/v3-sdk/pull/192)
+
+- **Hardhat / Chainlink** - Contributions to starter tooling used in smart contract development workflows.
+  - ⛓️ [hardhat-starter-kit#174](https://github.com/smartcontractkit/hardhat-starter-kit/pull/174)
+  - ⛓️ [hardhat-starter-kit#175](https://github.com/smartcontractkit/hardhat-starter-kit/pull/175)
+
 - **Alchemy** - Contribution to ERC-4337 account abstraction SDK components to improve developer-facing tooling.
   - 🧪 [aa-sdk#111](https://github.com/alchemyplatform/aa-sdk/pull/111)
 
@@ -70,7 +80,7 @@
   - 🖼️ [awesome-open-frames#14](https://github.com/open-frames/awesome-open-frames/pull/14)
   - 🖼️ [awesome-frames#33](https://github.com/davidfurlong/awesome-frames/pull/33)
 
-- **Other major ecosystems** - Cross-chain contributions spanning Solana, Tron, Stellar, TON, Uniswap, Chainlink, Hedera, and FairJournal repositories.
+- **Other major ecosystems** - Cross-chain contributions spanning Solana, Tron, Stellar, TON, Hedera, and FairJournal repositories.
   - ☀️ [solana-web3.js#1702](https://github.com/solana-labs/solana-web3.js/pull/1702)
   - 🧱 [dapp-scaffold#347](https://github.com/solana-labs/dapp-scaffold/pull/347)
   - 🔺 [tronweb#431](https://github.com/tronprotocol/tronweb/pull/431)
@@ -79,12 +89,6 @@
   - 💎 [wallet-desktop#50](https://github.com/ton-blockchain/wallet-desktop/pull/50)
   - ⚙️ [mytonctrl#143](https://github.com/ton-blockchain/mytonctrl/pull/143)
   - ⚙️ [mytonctrl#144](https://github.com/ton-blockchain/mytonctrl/pull/144)
-  - 🦄 [Uniswap wallet#27](https://github.com/Uniswap/wallet/pull/27)
-  - 🦄 [Uniswap v3-sdk#190](https://github.com/Uniswap/v3-sdk/pull/190)
-  - 🦄 [Uniswap v3-sdk#191](https://github.com/Uniswap/v3-sdk/pull/191)
-  - 🦄 [Uniswap v3-sdk#192](https://github.com/Uniswap/v3-sdk/pull/192)
-  - ⛓️ [hardhat-starter-kit#174](https://github.com/smartcontractkit/hardhat-starter-kit/pull/174)
-  - ⛓️ [hardhat-starter-kit#175](https://github.com/smartcontractkit/hardhat-starter-kit/pull/175)
   - 🌐 [hedera-sdk-js#2021](https://github.com/hashgraph/hedera-sdk-js/pull/2021)
   - 📰 [FairJournal/backend commit 22a20cd](https://github.com/FairJournal/backend/commit/22a20cd24f94a4995e7d95b922eaf9f0baf099c1)
   - 📰 [FairJournal/backend commit 8a73cc8](https://github.com/FairJournal/backend/commit/8a73cc8c1d1db07de7aad153403351dcc66c9ce9)
