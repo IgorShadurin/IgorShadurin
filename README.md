@@ -33,11 +33,11 @@
 - 🏆 **[AI Frames Creator](https://github.com/IgorShadurin/frame-open-content)** - ETHGlobal-winning project for AI-generated Farcaster Frames.
 - 🔐 **[GetLogin.eth](https://github.com/GetLoginEth)** - Mobile SSO product for decentralized apps.
   - 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth/getlogin-mobile)** - Decentralized SSO tooling for mobile and app ecosystems.
-  - 🔑 **[login](https://github.com/GetLoginEth/login)**
-  - ❤️ **[like](https://github.com/GetLoginEth/like)**
-  - 🌐 **[like-chrome](https://github.com/GetLoginEth/like-chrome)**
-  - 🧩 **[like-dapp](https://github.com/GetLoginEth/like-dapp)**
-  - 🧪 **[login-example](https://github.com/GetLoginEth/login-example)**
+  - 🔑 **[GetLogin](https://github.com/GetLoginEth/login)**
+  - ❤️ **[Like](https://github.com/GetLoginEth/like)**
+  - 🌐 **[Like Chrome](https://github.com/GetLoginEth/like-chrome)**
+  - 🧩 **[Like dApp](https://github.com/GetLoginEth/like-dapp)**
+  - 🧪 **[GetLogin Example](https://github.com/GetLoginEth/login-example)**
 - 🧭 **[Zoomerok](https://github.com/IgorShadurin/zoomerok-new)** - Social product focused on helping creators keep ownership and control of their data.
 
 ## Open Source Contributions
