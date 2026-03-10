@@ -88,3 +88,15 @@
 - 🌐 [hedera-sdk-js#2021](https://github.com/hashgraph/hedera-sdk-js/pull/2021)
 - 📰 [FairJournal/backend commit 22a20cd](https://github.com/FairJournal/backend/commit/22a20cd24f94a4995e7d95b922eaf9f0baf099c1)
 - 📰 [FairJournal/backend commit 8a73cc8](https://github.com/FairJournal/backend/commit/8a73cc8c1d1db07de7aad153403351dcc66c9ce9)
+
+## Articles
+
+- 🎥 **[Free AI Video Generation](https://habr.com/ru/articles/1000904/)** - Habr, 2026.
+- 💸 **[How I Cut AI Video Generation Costs by 8x](https://hackernoon.com/how-i-cut-ai-video-generation-costs-by-8x)** - HackerNoon, 2026.
+- 📝 **[How to Generate AI Images 8x Cheaper?](https://dev.to/igorshadurin/how-to-generate-ai-images-8x-cheaper-502k)** - dev.to, 2026.
+- 📚 **[How to Generate AI Images 8x Cheaper?](https://habr.com/ru/articles/985912/)** - Habr, 2026.
+- 🧠 **[Dive Into dApps: Your Ultimate Guide to Start Crafting Them Today!](https://hackernoon.com/dive-into-dapps-your-ultimate-guide-to-start-crafting-them-today)** - HackerNoon, 2023.
+- 🗞️ **[Zoomerok: Empowering Data Ownership](https://medium.com/ethereum-swarm/zoomerok-b50715bc284a)** - Medium, 2021.
+- 💾 **[TON Storage - a breakthrough in Web3 or a failure?](https://habr.com/ru/articles/767214/)** - Habr, 2016.
+- 📱 **[How to create a popular app in Play Market](https://habr.com/ru/articles/372901/)** - Habr, 2016.
+- 🕹️ **[Porting Flappy Bird to Gear 2 (HTML/JS/CSS)](https://habr.com/ru/articles/230733/)** - Habr, 2014.
