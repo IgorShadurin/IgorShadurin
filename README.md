@@ -31,13 +31,13 @@
 - 🖥️ **[FDP Tooling](https://github.com/fairDataSociety/fdp-cli)** - Command-line tooling for FDP Storage workflows.
 - 🗺️ **[Decentralized Maps (Galileo)](https://github.com/fairDataSociety/galileo)** - Stack for decentralized storage and map data workflows.
 - 🏆 **[AI Frames Creator](https://github.com/IgorShadurin/frame-open-content)** - ETHGlobal-winning project for AI-generated Farcaster Frames.
-- 🔐 **GetLogin.eth** - Mobile SSO product for decentralized apps.
-- 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth/getlogin-mobile)** - Decentralized SSO tooling for mobile and app ecosystems.
-- 🔑 [login](https://github.com/GetLoginEth/login)
-- ❤️ [like](https://github.com/GetLoginEth/like)
-- 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
-- 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
-- 🧪 [login-example](https://github.com/GetLoginEth/login-example)
+- 🔐 **[GetLogin.eth](https://github.com/GetLoginEth)** - Mobile SSO product for decentralized apps.
+  - 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth/getlogin-mobile)** - Decentralized SSO tooling for mobile and app ecosystems.
+  - 🔑 [login](https://github.com/GetLoginEth/login)
+  - ❤️ [like](https://github.com/GetLoginEth/like)
+  - 🌐 [like-chrome](https://github.com/GetLoginEth/like-chrome)
+  - 🧩 [like-dapp](https://github.com/GetLoginEth/like-dapp)
+  - 🧪 [login-example](https://github.com/GetLoginEth/login-example)
 - **Author-led open-source projects** - Repositories created and led directly as independent products and experiments.
 - 🧭 [zoomerok-new](https://github.com/IgorShadurin/zoomerok-new)
 - 🎞️ [video-editor-swift](https://github.com/VideoDApp/video-editor-swift)
