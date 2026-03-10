@@ -26,22 +26,22 @@
 
 - 📈 **[ClickCaster](https://github.com/IgorShadurin/clickcaster)** - Traffic exchange and analytics for Farcaster Frames.
 - 🧱 **[DappyKit](https://github.com/dappykit)** - Open-source ecosystem for decentralized app tooling.
-  - 🧰 **[SDK](https://github.com/DappyKit/sdk)**
-  - 🌐 **[Gateway](https://github.com/DappyKit/gateway)**
-  - 🪪 **[Farcaster Auth](https://github.com/DappyKit/farcaster-auth)**
-  - 📜 **[Contracts](https://github.com/DappyKit/contracts)**
-  - 🧠 **[Web4 Apps Specification](https://github.com/DappyKit/web4-apps-specification)**
+  - 🧰 **[SDK](https://github.com/DappyKit/sdk)** - Core developer SDK for gasless transactions, smart accounts, verification, and user-owned data flows.
+  - 🌐 **[Gateway](https://github.com/DappyKit/gateway)** - Backend gateway for decentralized data uploads, mempool processing, and rollup-based cost reduction.
+  - 🪪 **[Farcaster Auth](https://github.com/DappyKit/farcaster-auth)** - Authentication flow that lets DappyKit apps work inside the Farcaster ecosystem.
+  - 📜 **[Contracts](https://github.com/DappyKit/contracts)** - Core smart contracts for social connections, filesystem changes, and verification.
+  - 🧠 **[Web4 Apps Specification](https://github.com/DappyKit/web4-apps-specification)** - Open standard for describing decentralized AI-powered apps in natural language.
 - 🗄️ **[FDP Storage](https://github.com/fairDataSociety/fdp-storage)** - Serverless filesystem layer for personal data.
 - 🖥️ **[FDP Tooling](https://github.com/fairDataSociety/fdp-cli)** - Command-line tooling for FDP Storage workflows.
 - 🗺️ **[Decentralized Maps (Galileo)](https://github.com/fairDataSociety/galileo)** - Stack for decentralized storage and map data workflows.
 - 🏆 **[AI Frames Creator](https://github.com/IgorShadurin/frame-open-content)** - ETHGlobal-winning project for AI-generated Farcaster Frames.
 - 🔐 **[GetLogin.eth](https://github.com/GetLoginEth)** - Mobile SSO product for decentralized apps.
   - 📱 **[GetLogin.eth Mobile](https://github.com/GetLoginEth/getlogin-mobile)** - Decentralized SSO tooling for mobile and app ecosystems.
-  - 🔑 **[GetLogin](https://github.com/GetLoginEth/login)**
-  - ❤️ **[Like](https://github.com/GetLoginEth/like)**
-  - 🌐 **[Like Chrome](https://github.com/GetLoginEth/like-chrome)**
-  - 🧩 **[Like dApp](https://github.com/GetLoginEth/like-dapp)**
-  - 🧪 **[GetLogin Example](https://github.com/GetLoginEth/login-example)**
+  - 🔑 **[GetLogin](https://github.com/GetLoginEth/login)** - Web version of the decentralized single sign-on product for Ethereum-based apps.
+  - ❤️ **[Like](https://github.com/GetLoginEth/like)** - Demo app showing how Web3 SSO works with the GetLogin stack.
+  - 🌐 **[Like Chrome](https://github.com/GetLoginEth/like-chrome)** - Browser extension companion for the Like demo experience.
+  - 🧩 **[Like dApp](https://github.com/GetLoginEth/like-dapp)** - Decentralized app example integrated with the GetLogin authentication flow.
+  - 🧪 **[GetLogin Example](https://github.com/GetLoginEth/login-example)** - Sample integration project for testing and implementing GetLogin in apps.
 - 🧭 **[Zoomerok](https://github.com/IgorShadurin/zoomerok-new)** - Social product focused on helping creators keep ownership and control of their data.
 
 ## Open Source Contributions
