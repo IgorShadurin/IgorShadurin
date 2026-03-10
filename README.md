@@ -52,6 +52,13 @@
 - **Alchemy** - Contribution to ERC-4337 account abstraction SDK components to improve developer-facing tooling.
 - 🧪 [aa-sdk#111](https://github.com/alchemyplatform/aa-sdk/pull/111)
 
+- **Ethersphere** - Adjacent Web3 infrastructure contribution around Bee tooling and developer experience.
+- 🐝 [bee-js#756](https://github.com/ethersphere/bee-js/pull/756)
+
+- **Open Frames ecosystem** - Contributions around frame discovery and ecosystem visibility, relevant to ClickCaster and Farcaster tooling.
+- 🖼️ [awesome-open-frames#14](https://github.com/open-frames/awesome-open-frames/pull/14)
+- 🖼️ [awesome-frames#33](https://github.com/davidfurlong/awesome-frames/pull/33)
+
 - **Other major ecosystems** - Cross-chain contributions spanning Solana, Tron, Stellar, TON, Uniswap, Chainlink, Hedera, and FairJournal repositories.
 - ☀️ [solana-web3.js#1702](https://github.com/solana-labs/solana-web3.js/pull/1702)
 - 🧱 [dapp-scaffold#347](https://github.com/solana-labs/dapp-scaffold/pull/347)
