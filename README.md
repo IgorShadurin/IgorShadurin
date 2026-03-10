@@ -1,3 +1,7 @@
+## Hi, I'm Igor
+
+📍 **United Kingdom** | 🇬🇧 **UK Global Talent visa holder in digital technology**
+
 ## Current Projects
 
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI-powered video workflow for generating and enhancing short-form content.
