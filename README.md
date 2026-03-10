@@ -5,7 +5,7 @@
 ## Current Projects
 
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI-powered video workflow for generating and enhancing short-form content.
-- 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - Open-source utility toolkit available in browser and desktop form.
+- 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - A set of practical tools for developers, available in the browser and desktop app for private local workflows.
 - 📅 **[FounderCal](https://github.com/IgorShadurin/foundercal.org)** - Living calendar of accelerator deadlines, fellowships, grants, and founder opportunities.
 - 🔍 **[Open Data Druid](https://github.com/IgorShadurin/open-data-druid)** - SEO keyword research and content opportunity discovery tool.
 - 📣 **[OpenAds](https://github.com/IgorShadurin/open-ads)** - Ad platform for iOS apps with auth, ownership, delivery, and analytics.
