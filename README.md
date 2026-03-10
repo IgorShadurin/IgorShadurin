@@ -21,6 +21,8 @@
 - 🎵 **[Audio to Audio](https://github.com/IgorShadurin/ios-audio-to-audio)** - Audio conversion and trimming app with waveform-based controls.
 - 🎬 **[Video to Audio](https://github.com/IgorShadurin/ios-video-to-audio)** - On-device audio extraction from video with clipping support.
 - 🧾 **[Metadata Info](https://github.com/IgorShadurin/ios-metadata)** - File metadata inspector for media, images, and PDFs.
+- 💬 **[TextFaker](https://textfaker.com/)** - Fake text message generator for creating realistic SMS and chat-style conversations as images.
+- 🖌️ **[Text Brush](https://text-brush.com/)** - Browser tool for drawing curved text directly on photos to create stylized images.
 
 ## Legacy Work
 
