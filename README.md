@@ -1,6 +1,6 @@
 ## Hi, I'm Igor
 
-📍 **United Kingdom** | 🇬🇧 **UK Global Talent visa holder in digital technology**
+📍 **United Kingdom** | 🇬🇧 **UK Global Talent visa holder in distributed systems**
 
 ## Current Projects
 
