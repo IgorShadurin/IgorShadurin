@@ -5,7 +5,7 @@
 ## Current Projects
 
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI short video generator for vertical social content.
-- 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Local-first tool for orchestrating high-volume Codex task execution across projects.
+- 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Codex orchestration tool for high-volume task execution across projects.
 - 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - A set of practical tools for developers, available in the browser and desktop app for private local workflows.
 - 📅 **[FounderCal](https://github.com/IgorShadurin/foundercal.org)** - Living calendar of accelerator deadlines, fellowships, grants, and founder opportunities.
 - 🔍 **[Open Data Druid](https://github.com/IgorShadurin/open-data-druid)** - SEO keyword research and content opportunity discovery tool.
