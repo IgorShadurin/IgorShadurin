@@ -5,6 +5,7 @@
 ## Current Projects
 
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI short video generator for vertical social content.
+- 🎨 **[CopyMyUI](https://github.com/IgorShadurin/CopyMyUI)** - Curated SwiftUI component marketplace for discovering and reusing production-grade UI patterns.
 - 🤖 **[OpenClap](https://github.com/IgorShadurin/open-clap)** - Codex orchestration tool for high-volume task execution across projects.
 - 🧰 **[OfflineTools](https://github.com/IgorShadurin/offlinetools.org)** - A set of practical tools for developers, available in the browser and desktop app for private local workflows.
 - 📅 **[FounderCal](https://github.com/IgorShadurin/foundercal.org)** - Living calendar of accelerator deadlines, fellowships, grants, and founder opportunities.
