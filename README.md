@@ -4,6 +4,7 @@
 
 ## Current Projects
 
+- ⚖️ **[Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot)** - Telegram group bot for weekly weight goals, photo check-ins, progress charts, reminders, and achievements.
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI short video generator for vertical social content.
 - 📬 **[Resend Mail Client](https://github.com/IgorShadurin/resend-mail-client)** - Simple mail client for reading, replying to, and reviewing mail across Resend accounts.
 - 🎨 **[CopyMyUI](https://github.com/IgorShadurin/CopyMyUI)** - Curated SwiftUI component marketplace for discovering and reusing production-grade UI patterns.
