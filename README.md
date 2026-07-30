@@ -4,8 +4,8 @@
 
 ## Current Projects
 
-- 💳 **[iOS Payments Telegram Bot](https://github.com/IgorShadurin/ios-payments-telegram-bot)** - Verifies App Store Server Notifications for multiple iOS apps, stores events in persistent SQLite, and sends purchase, subscription, renewal, and refund alerts to Telegram.
-- 🖌️ **[Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib)** - Smooth text-on-path brush algorithm for photo and video editing, implemented in 20 programming languages.
+- 💳 **[iOS Payments Telegram Bot](https://github.com/IgorShadurin/ios-payments-telegram-bot)** - Verified App Store payment alerts for multiple iOS apps.
+- 🖌️ **[Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib)** - Text-on-path brushes implemented in 20 programming languages.
 - 🎞️ **[YumCut Video Ads](https://github.com/IgorShadurin/yumcut-video-ads)** - Browser-native video ad engine for composing and exporting MP4 or WebM locally.
 - ⚖️ **[Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot)** - Telegram group bot for weekly weight goals, photo check-ins, progress charts, reminders, and achievements.
 - 🎬 **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - AI short video generator for vertical social content.
