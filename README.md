@@ -4,6 +4,7 @@
 
 ## Current Projects
 
+- 🚲 **[SpiderRoute](https://github.com/IgorShadurin/spiderroute.com)** - Edit and share bike and scooter routes, add ride notes and YouTube moments, and send maps friends can open without signing in. [Website](https://spiderroute.com/).
 - 📨 **[Self-Hosted Mail Sender](https://github.com/IgorShadurin/self-hosted-mail-sender)** - A secure, practical guide to self-hosting Plunk with Coolify, Cloudflare, and Amazon SES.
 - 💳 **[iOS Payments Telegram Bot](https://github.com/IgorShadurin/ios-payments-telegram-bot)** - Verified App Store payment alerts for multiple iOS apps.
 - 🖌️ **[Brush Photo & Video Library](https://github.com/IgorShadurin/brush-photo-video-lib)** - Text-on-path brushes implemented in 20 programming languages.
