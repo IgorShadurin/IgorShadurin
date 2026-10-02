@@ -4,9 +4,9 @@
 
 ## Current Projects
 
-- 📊 **[YT Subs](https://github.com/IgorShadurin/yt-subs)** - Native macOS menu bar app for YouTube subscriber counts, with exact readings from Studio through a Chrome extension or rounded API counts, automatic updates, and launch at login.
-- 🚴 **[GPX to Video](https://github.com/IgorShadurin/gpx-to-video)** - Add synchronized speed, OpenStreetMap maps, elevation, and ride distance to action-camera footage from GPX or CSV recordings. Built with Rust and FFmpeg, with a visual layer editor and transparent overlay export.
-- 🗺️ **[Yandex Maps → GPX](https://github.com/IgorShadurin/yandex-maps-gpx)** - Export routes planned in Yandex Maps as GPX files for your GPS app, with a stops list and route preview. Install manually in Chrome; no API key or build step needed.
+- 📊 **[YT Subs](https://github.com/IgorShadurin/yt-subs)** - YouTube subscriber counter for the macOS menu bar, with exact Studio counts.
+- 🚴 **[GPX to Video](https://github.com/IgorShadurin/gpx-to-video)** - Add speed, maps, elevation, and distance overlays to videos from GPX or CSV.
+- 🗺️ **[Yandex Maps → GPX](https://github.com/IgorShadurin/yandex-maps-gpx)** - Chrome extension for exporting Yandex Maps routes as GPX files.
 - 🚲 **[SpiderRoute](https://github.com/IgorShadurin/spiderroute.com)** - Edit and share bike and scooter routes, add ride notes and YouTube moments, and send maps friends can open without signing in. [Website](https://spiderroute.com/).
 - 📨 **[Self-Hosted Mail Sender](https://github.com/IgorShadurin/self-hosted-mail-sender)** - A secure, practical guide to self-hosting Plunk with Coolify, Cloudflare, and Amazon SES.
 - 💳 **[iOS Payments Telegram Bot](https://github.com/IgorShadurin/ios-payments-telegram-bot)** - Verified App Store payment alerts for multiple iOS apps.
