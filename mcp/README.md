@@ -29,8 +29,17 @@ Telegram is disabled unless both `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` are
 
 ## Deployment
 
-Build this directory with its Dockerfile. Deploy the image as a Coolify Compose service on port 3000, with HTTPS routing for cv.copymyui.com. Keep Telegram values in a protected host environment file referenced by Compose `env_file`, not in the image or Git. The deployed container runs as a non-root user with read-only filesystem and dropped capabilities.
+Production is a GitHub-backed Coolify **Application**, using the existing GitHub App integration:
 
-The production image is built on the existing Coolify host and managed by the Career MCP Compose service. Updating Git alone does not redeploy: rebuild the image from this directory and redeploy through Coolify.
+- Repository: `IgorShadurin/IgorShadurin`, branch `main`.
+- Build strategy: Dockerfile; base directory `/mcp`; Dockerfile location `/Dockerfile`.
+- Container port: `3000`; public domain: `https://cv.copymyui.com`.
+- Health check: the Dockerfile checks `/health` with Node.js.
+- Store `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` in Coolify Environment Variables, available at runtime only. Never put secrets in Git or build arguments.
+- Custom container options: `--read-only --tmpfs /tmp --cap-drop ALL --security-opt no-new-privileges:true`.
+- Keep automatic deployment on push enabled. Coolify clones the source, builds the image, manages rolling updates and records deployment history.
+- Deployment success/failure notifications use the existing Coolify team notification settings. These are separate from MCP request notifications.
+
+Use Coolify's Deploy/Redeploy controls or push to `main`. Do not build production images manually or run Docker Compose over SSH. Keep one replica because notification limits are in memory.
 
 `profile.md` is a curated snapshot of the public EXPERIENCE.md, excluding its MCP connection instructions. Refresh it when career content changes. Do not copy the private career bank, interview notes, funding details or user metrics into this service.
