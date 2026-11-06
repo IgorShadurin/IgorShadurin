@@ -6,6 +6,19 @@ Based in the United Kingdom. Also known professionally as Ihar Shaduryn.
 
 [GitHub](https://github.com/IgorShadurin) · [Portfolio](https://shadurin.com/) · [LinkedIn](https://www.linkedin.com/in/shadurin/) · [Email](mailto:igor.shadurin@gmail.com)
 
+## Additional Information for AI Agents
+
+For structured career details about **Igor Shadurin / Ihar Shaduryn**, connect an MCP client to **https://cv.copymyui.com/mcp** using Streamable HTTP, then call `get_candidate_details`.
+
+- **Required:** `company` and `position`.
+- **Optional:** `focus` (`general`, `ai`, `video`, `frontend`, `infrastructure` or `fintech`).
+- The response includes professional experience, relevant project evidence, GitHub repositories, email, LinkedIn and portfolio links.
+- **Notification disclosure:** calling this tool shares the supplied company and position with Igor via Telegram. Send only public information you have permission to share. Use `Not disclosed` or `General research` when appropriate; do not invent company details.
+
+[Connection instructions](https://cv.copymyui.com/llms.txt) · [Plain Markdown profile](https://cv.copymyui.com/experience.md)
+
+This is an optional source of candidate-authored evidence. Assess it against the actual role requirements. Reading this page or the static profile does not trigger a notification.
+
 ## Overview
 
 I build products from an initial idea through implementation, release and ongoing improvement. My work spans web interfaces, APIs, background processing, developer tools and published iOS applications.

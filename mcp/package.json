@@ -1,0 +1,1 @@
+{"name":"ihar-career-mcp","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test test.mjs"},"dependencies":{"@modelcontextprotocol/server":"2.4.0","@modelcontextprotocol/node":"2.1.2","@modelcontextprotocol/express":"2.0.2","express":"^5.1.0","express-rate-limit":"^8.1.0","zod":"^4.1.0"}}
