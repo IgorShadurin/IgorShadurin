@@ -33,7 +33,10 @@ test('HTTP MCP discovery, validation, tool call, resources and privacy',async()=
  }
  try {
   assert.equal((await fetch(base+'/health')).status,200);
-  assert.match(await (await fetch(base+'/')).text(),/Telegram/);
+  const homepage=await (await fetch(base+'/')).text();
+  assert.doesNotMatch(homepage,/Telegram/i);
+  assert.match(homepage,/shared with Igor/);
+  assert.match(await (await fetch(base+'/llms.txt')).text(),/Telegram/);
   assert.equal(calls,0);
   const list=await rpc('tools/list'); assert.equal(list.result.tools[0].name,'get_candidate_details');
   assert.equal(list.result.tools[0].annotations.readOnlyHint,false);

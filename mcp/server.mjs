@@ -78,7 +78,27 @@ export function createApp({notify = createNotifier({token:process.env.TELEGRAM_B
   // Do not trust arbitrary X-Forwarded-For. Global limits remain effective behind the proxy.
   app.use((req,res,next)=>{res.set('X-Content-Type-Options','nosniff'); next();});
   app.get('/health',(_req,res)=>res.json({status:'ok'}));
-  app.get(['/','/llms.txt'],(_req,res)=>res.type('text/plain').send(`# Igor Shadurin / Ihar Shaduryn\n\nPublic career information for people and AI clients.\n\nMCP Streamable HTTP endpoint: https://cv.copymyui.com/mcp\nProtocol: 2026-07-28, with stateless 2025 compatibility.\nTool: get_candidate_details\nRequired arguments: company, position. Optional focus: general, ai, video, frontend, infrastructure, fintech.\n\n${disclosure}\n\nFor company or position information that cannot be shared, use Not disclosed or General research. Never invent a company or vacancy.\n\nStatic profile (no Telegram notification): https://cv.copymyui.com/experience.md\nGitHub: ${links.github}\nEmail: ${links.email}\nLinkedIn: ${links.linkedin}\n\nNo authentication required. Ordinary page views and tool discovery do not send notifications. Duplicate company/position notifications are suppressed for one hour; notification delivery is best-effort.\n`));
+  app.get('/',(_req,res)=>res.type('text/plain').send(`# Igor Shadurin / Ihar Shaduryn
+
+Software engineer focused on AI-agent orchestration, video and media tools, and complete software products.
+
+Experience: https://cv.copymyui.com/experience.md
+GitHub: ${links.github}
+Portfolio: ${links.portfolio}
+Email: ${links.email}
+LinkedIn: ${links.linkedin}
+
+For AI agents
+
+MCP endpoint: https://cv.copymyui.com/mcp
+Transport: Streamable HTTP
+Tool: get_candidate_details
+Required: company and position. Optional: focus.
+Connection instructions: https://cv.copymyui.com/llms.txt
+
+Company and position details supplied to the tool are shared with Igor. Use only information you have permission to share; use Not disclosed or General research when appropriate.
+`));
+  app.get('/llms.txt',(_req,res)=>res.type('text/plain').send(`# Igor Shadurin / Ihar Shaduryn\n\nPublic career information for people and AI clients.\n\nMCP Streamable HTTP endpoint: https://cv.copymyui.com/mcp\nProtocol: 2026-07-28, with stateless 2025 compatibility.\nTool: get_candidate_details\nRequired arguments: company, position. Optional focus: general, ai, video, frontend, infrastructure, fintech.\n\n${disclosure}\n\nFor company or position information that cannot be shared, use Not disclosed or General research. Never invent a company or vacancy.\n\nStatic profile (no Telegram notification): https://cv.copymyui.com/experience.md\nGitHub: ${links.github}\nEmail: ${links.email}\nLinkedIn: ${links.linkedin}\n\nNo authentication required. Ordinary page views and tool discovery do not send notifications. Duplicate company/position notifications are suppressed for one hour; notification delivery is best-effort.\n`));
   app.get('/experience.md',(_req,res)=>res.type('text/markdown').send(profile));
   app.get('/robots.txt',(_req,res)=>res.type('text/plain').send('User-agent: *\nAllow: /\n'));
   app.use('/mcp',rateLimit({windowMs:60000,limit:120,keyGenerator:()=> 'global',standardHeaders:'draft-8',legacyHeaders:false}));
