@@ -1,6 +1,6 @@
 ## Hi, I'm Igor
 
-📍 **United Kingdom** | 🇬🇧 **UK Global Talent visa holder in distributed systems**
+📍 **United Kingdom** | [**Professional experience & projects**](./EXPERIENCE.md)
 
 ## Current Projects
 
@@ -59,41 +59,43 @@
 
 ## Open Source Contributions
 
-- **Ethereum ecosystem** - Contributions across Ethereum tooling, Swarm dApps, and Optimism docs/tutorials that improve developer workflows and reliability.
+Selected pull requests and commits, including code, documentation and maintenance changes. Submission and merge status are recorded on each linked pull request.
+
+- **Ethereum ecosystem** - Application changes in Swarm dApps, documentation fixes and tutorial maintenance submissions.
   - 🔐 [js-ethereum-cryptography#94](https://github.com/ethereum/js-ethereum-cryptography/pull/94)
   - 🐝 [swarm-dapps#17](https://github.com/ethereum/swarm-dapps/pull/17)
   - 🐝 [swarm-dapps#20](https://github.com/ethereum/swarm-dapps/pull/20)
-  - 🌉 [optimism-tutorial#214](https://github.com/ethereum-optimism/optimism-tutorial/pull/214)
-  - 🌉 [optimism-tutorial#215](https://github.com/ethereum-optimism/optimism-tutorial/pull/215)
+  - 🌉 [optimism-tutorial#214](https://github.com/ethereum-optimism/optimism-tutorial/pull/214) (closed without merge)
+  - 🌉 [optimism-tutorial#215](https://github.com/ethereum-optimism/optimism-tutorial/pull/215) (closed without merge)
   - 🏛️ [community-hub#923](https://github.com/ethereum-optimism/community-hub/pull/923)
 
-- **Binance** - Improvements to official connectors and API documentation used by developers building exchange integrations.
+- **Binance** - Pull requests to connector and API documentation repositories.
   - 🟡 [binance-connector-node#142](https://github.com/binance/binance-connector-node/pull/142)
   - 🟡 [binance-connector-node#143](https://github.com/binance/binance-connector-node/pull/143)
   - 🐍 [binance-connector-python#265](https://github.com/binance/binance-connector-python/pull/265)
   - 📘 [binance-spot-api-docs#235](https://github.com/binance/binance-spot-api-docs/pull/235)
 
-- **Uniswap** - Contributions to official wallet and SDK tooling in the Uniswap ecosystem.
+- **Uniswap** - Pull requests to wallet and SDK repositories.
   - 🦄 [Uniswap wallet#27](https://github.com/Uniswap/wallet/pull/27)
   - 🦄 [Uniswap v3-sdk#190](https://github.com/Uniswap/v3-sdk/pull/190)
   - 🦄 [Uniswap v3-sdk#191](https://github.com/Uniswap/v3-sdk/pull/191)
   - 🦄 [Uniswap v3-sdk#192](https://github.com/Uniswap/v3-sdk/pull/192)
 
-- **Hardhat / Chainlink** - Contributions to starter tooling used in smart contract development workflows.
+- **Hardhat / Chainlink** - Pull requests to smart contract starter tooling.
   - ⛓️ [hardhat-starter-kit#174](https://github.com/smartcontractkit/hardhat-starter-kit/pull/174)
   - ⛓️ [hardhat-starter-kit#175](https://github.com/smartcontractkit/hardhat-starter-kit/pull/175)
 
-- **Alchemy** - Contribution to ERC-4337 account abstraction SDK components to improve developer-facing tooling.
+- **Alchemy** - Pull request to the account abstraction SDK repository.
   - 🧪 [aa-sdk#111](https://github.com/alchemyplatform/aa-sdk/pull/111)
 
-- **Ethersphere** - Adjacent Web3 infrastructure contribution around Bee tooling and developer experience.
+- **Ethersphere** - Pull request to the Bee JavaScript client repository.
   - 🐝 [bee-js#756](https://github.com/ethersphere/bee-js/pull/756)
 
-- **Open Frames ecosystem** - Contributions around frame discovery and ecosystem visibility, relevant to ClickCaster and Farcaster tooling.
+- **Open Frames ecosystem** - Pull requests to community resource lists.
   - 🖼️ [awesome-open-frames#14](https://github.com/open-frames/awesome-open-frames/pull/14)
   - 🖼️ [awesome-frames#33](https://github.com/davidfurlong/awesome-frames/pull/33)
 
-- **Other major ecosystems** - Cross-chain contributions spanning Solana, Tron, Stellar, TON, Hedera, and FairJournal repositories.
+- **Other major ecosystems** - Pull requests and commits across Solana, Tron, Stellar, TON, Hedera and FairJournal repositories.
   - ☀️ [solana-web3.js#1702](https://github.com/solana-labs/solana-web3.js/pull/1702)
   - 🧱 [dapp-scaffold#347](https://github.com/solana-labs/dapp-scaffold/pull/347)
   - 🔺 [tronweb#431](https://github.com/tronprotocol/tronweb/pull/431)
@@ -113,7 +115,7 @@
 - 📝 **[How to Generate AI Images 8x Cheaper?](https://dev.to/igorshadurin/how-to-generate-ai-images-8x-cheaper-502k)** - dev.to, 2026.
 - 📚 **[How to Generate AI Images 8x Cheaper?](https://habr.com/ru/articles/985912/)** - Habr, 2026.
 - 🧠 **[Dive Into dApps: Your Ultimate Guide to Start Crafting Them Today!](https://hackernoon.com/dive-into-dapps-your-ultimate-guide-to-start-crafting-them-today)** - HackerNoon, 2023.
+- 💾 **[TON Storage - a breakthrough in Web3 or a failure?](https://habr.com/ru/articles/767214/)** - Habr, 2023.
 - 🗞️ **[Zoomerok: Empowering Data Ownership](https://medium.com/ethereum-swarm/zoomerok-b50715bc284a)** - Medium, 2021.
-- 💾 **[TON Storage - a breakthrough in Web3 or a failure?](https://habr.com/ru/articles/767214/)** - Habr, 2016.
 - 📱 **[How to create a popular app in Play Market](https://habr.com/ru/articles/372901/)** - Habr, 2016.
 - 🕹️ **[Porting Flappy Bird to Gear 2 (HTML/JS/CSS)](https://habr.com/ru/articles/230733/)** - Habr, 2014.
